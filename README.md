@@ -54,6 +54,7 @@ This is a list of questions to help developers get a sense of the the places the
 * Is the team growing? What are your needs right now?
 * How do you avoid team-wide burnout?
 * What’s the churn like? How many people have left in the last year, and why did they leave?
+* How diverse are the developers here? How do you address the issue of diversity in the field?
 
 ## Company dynamics
 
