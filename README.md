@@ -42,7 +42,7 @@ This is a list of questions to help developers get a sense of the the places the
 * Do developers have a conference/book/research budget?
 * Are there weekly or monthly one-on-ones with technical mentors?
 * How do you ensure that people on your tech team continue learning?
-* Do you have a 10% project?
+* Do you have a 20% time policy?
 
 ## Team dynamics
 
