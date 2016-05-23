@@ -36,6 +36,11 @@ This is a list of questions to help developers get a sense of the the places the
 * What's your company's approach to time tracking?
 * What's your company's approach to estimation?
 * How does the team’s leadership [or the product’s leadership] deal with unreasonable feature requests?
+* How much time do you expect I'll be working on legacy products/projects, versus shipping new ones? 
+* Let's say I'm in this position for a year. What would it look like for me to be a total success?
+* Followup to previous question: What will our development/engineering team/product look like then, given that success? 
+* Do your engineers/developers get to choose their own toolsets? [For instance, if I want to work in a Docker container rather than running MAMP locally, is that cool?]
+* Followup to previous question: Do your developers get to choose their own stacks? If I want to write a thing in React, am I allowed, or do I have to stick to what you're already using?  
 
 ## Growth
 
@@ -49,12 +54,14 @@ This is a list of questions to help developers get a sense of the the places the
 * Can I meet the developers I’m working with?
 * Am I taking a person’s place on the team? Why are they leaving? Where do they fall on the org chart?
 * Who do I answer to?
+* Do I manage/mentor anyone? 
 * How does your technical/product/customer/executive leadership work on the product on a regular basis?
 * How does your technical/product/customer/executive leadership use the product on a regular basis?
 * Is the team growing? What are your needs right now?
 * How do you avoid team-wide burnout?
 * What’s the churn like? How many people have left in the last year, and why did they leave?
 * How diverse are the developers here? How do you address the issue of diversity in the field?
+* How important is your technology to the core of your company's mission?  
 
 ## Company dynamics
 
