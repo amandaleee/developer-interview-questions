@@ -37,6 +37,10 @@ This is a list of questions to help developers get a sense of the the places the
 * What's your company's approach to estimation?
 * How does the team’s leadership [or the product’s leadership] deal with unreasonable feature requests?
 * How much time do you expect I'll be working on legacy products/projects, versus shipping new ones? 
+* Let's say I'm in this position for a year. What would it look like for me to be a total success?
+* Followup to previous question: What will our development/engineering team/product look like then, given that success? 
+* Do your engineers/developers get to choose their own toolsets? [For instance, if I want to work in a Docker container rather than running MAMP locally, is that cool?]
+* Followup to previous question: Do your developers get to choose their own stacks? If I want to write a thing in React, am I allowed, or do I have to stick to what you're already using?  
 
 ## Growth
 
