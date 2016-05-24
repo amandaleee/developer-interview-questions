@@ -62,6 +62,9 @@ This is a list of questions to help developers get a sense of the the places the
 * What’s the churn like? How many people have left in the last year, and why did they leave?
 * How diverse are the developers here? How do you address the issue of diversity in the field?
 * How important is your technology to the core of your company's mission?  
+* How much runway does the company have? 
+* Are you currently fundraising? 
+* Tell me about the distribution of your clients/users. If you do client work, what percentage of your revenue comes from your biggest client?  
 
 ## Company dynamics
 
