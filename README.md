@@ -78,3 +78,6 @@ This is a list of questions to help developers get a sense of the the places the
 * Pair programming? Code review? Code standards? What do I have to do to get work merged?
 * If an aspect of your site/app goes down, like if a mail form stops sending mail, whose job is it to fix that?
 * Who hosts your work? Rackspace, aws, heroku, managed something or other?
+* Do any of your devs have pager duty? 
+* Do any of your devs have to work overnight [eg on a deploy]
+* What are the chances that I'm going to get a call after hours for a non-outage-related issue? 
