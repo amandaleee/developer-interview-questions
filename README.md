@@ -41,6 +41,8 @@ This is a list of questions to help developers get a sense of the the places the
 * Followup to previous question: What will our development/engineering team/product look like then, given that success? 
 * Do your engineers/developers get to choose their own toolsets? [For instance, if I want to work in a Docker container rather than running MAMP locally, is that cool?]
 * Followup to previous question: Do your developers get to choose their own stacks? If I want to write a thing in React, am I allowed, or do I have to stick to what you're already using?  
+* Do you care about pixel perfection? How many UI reviews does the code undergo? 
+* Do you have a code standard? If so, how do you balance adherence to a standard with knowing when to revise it, or ignore it altogether? 
 
 ## Growth
 
