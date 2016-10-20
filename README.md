@@ -6,12 +6,15 @@ This is a list of questions to help developers get a sense of the the places the
 
 * What is your dress code?
 * What time do people generally arrive and leave?
-* What is the lunch break situation? Do people eat together? Do they tend to work through lunch?
+* What is the lunch break situation, or what do people tend to do for lunch? Do people eat together? Do they tend to work through lunch?
 * Do developers work from home or on a non-synchronized schedule?
+* Are there options for working from home, even partially? 
 * If so, what tools do you use to make sure everyone communicates effectively? Do they work?
 * Are there weekly or monthly staff meetings?
 * On average, how much time would a developer spend per week in meetings?
 * How much paid time off is given? What's the process for getting that approved?
+* Can I see [and hear] where I'll be doing my work? 
+
 
 ## Permissions/do you trust me with equipment and stuff
 
@@ -43,6 +46,10 @@ This is a list of questions to help developers get a sense of the the places the
 * Followup to previous question: Do your developers get to choose their own stacks? If I want to write a thing in React, am I allowed, or do I have to stick to what you're already using?  
 * Do you care about pixel perfection? How many UI reviews does the code undergo? 
 * Do you have a code standard? If so, how do you balance adherence to a standard with knowing when to revise it, or ignore it altogether? 
+* How are performance reviews/salary reviews handled? 
+* What in my background (or on my resume) do you see as the most beneficial for the team?
+* Which departments do you interface with the most? 
+* Are projects usually by team, or solo? How is team assignment determined?   
 
 ## Growth
 
@@ -50,6 +57,7 @@ This is a list of questions to help developers get a sense of the the places the
 * Are there weekly or monthly one-on-ones with technical mentors?
 * How do you ensure that people on your tech team continue learning?
 * Do you have a 20% time policy?
+* What challenges does the department/company face in the next month/six months/year? 
 
 ## Team dynamics
 
@@ -72,6 +80,7 @@ This is a list of questions to help developers get a sense of the the places the
 
 * What's the ratio of developers to non-developers company-wide?
 * How do you make sure the separate teams in the office respect one another’s work?
+* Tell me about a project that didn't go well. 
 
 ## General operations
 
