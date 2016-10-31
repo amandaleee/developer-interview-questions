@@ -50,6 +50,8 @@ This is a list of questions to help developers get a sense of the the places the
 * What in my background (or on my resume) do you see as the most beneficial for the team?
 * Which departments do you interface with the most? 
 * Are projects usually by team, or solo? How is team assignment determined?   
+* What percentage of the time will I be working in/on a CMS? Which one is it?
+* What percentage of the time will I be working in/on HTML emails? How are they built/managed? 
 
 ## Growth
 
