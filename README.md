@@ -29,6 +29,7 @@ This is a list of questions to help developers get a sense of the the places the
 * How long does it take for a dev working in my general skill area to set up a local environment? What is involved with that? Docker, Vagrant, none of the above? 
 * How often do your developers lose time to maintaining, patching, or updating their local environment? 
 * What are the three biggest pain points in your stack? How is the team addressing them? 
+* What have you tried to improve in the past relating to your stack, but failed at? 
 
 ## Product management/process related stuff
 
