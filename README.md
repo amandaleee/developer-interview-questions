@@ -15,6 +15,25 @@ This is a list of questions to help developers get a sense of the the places the
 * How much paid time off is given? What's the process for getting that approved?
 * Can I see [and hear] where I'll be doing my work?
 
+## Remote work
+
+Working from home presents a set of challenges that working in an office
+does not.  Here are some questions that can help you find out about
+these challenges.  Be wary if the hiring manager is surprised by any of
+these questions.
+
+* What are the expectations for those who work remotely?
+* Are there certain hours that remote workers are expected to work?
+* What is the "home time zone" for the company?
+* What hardware or software am I expected to have at home?  Will the company provide it?
+* What network connectivity will I need?  Will I need anything special, like a static IP?
+* Do people work all over, or is it expected that "working remote" means "at your home"?
+* How are meetings handled?  Conference calls?
+* How do you do day-to-day collaboration?  Slack?  Hangouts?
+* What percentage of the company is remote?  Are we all remote, or am I going to be one of the few outsiders?
+* Will there be face-to-face get-togethers at the home office?  How often and for how long?
+* How are non-team issues handled, like if I have a problem for HR?
+
 ## Permissions/do you trust me with equipment and stuff
 
 * Will I get SSH access to your servers?
