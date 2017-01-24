@@ -15,12 +15,7 @@ This is a list of questions to help developers get a sense of the the places the
 * How much paid time off is given? What's the process for getting that approved?
 * Can I see [and hear] where I'll be doing my work?
 
-## Permissions/do you trust me with equipment and stuff
-
-* Will I get SSH access to your servers?
-* Will I get root/Administrator access to my machine?
-
-## General stack questions
+## Development stack and tools
 
 * What front-end and back-end stacks do you run? How do you choose these?
 * What percent of work per week that happens within a content management system? Who has access to this CMS aside from developers?
@@ -28,8 +23,14 @@ This is a list of questions to help developers get a sense of the the places the
 * Can I look at your code stack?
 * How long does it take for a dev working in my general skill area to set up a local environment? What is involved with that? Docker, Vagrant, none of the above? 
 * How often do your developers lose time to maintaining, patching, or updating their local environment? 
+* Do your engineers/developers get to choose their own toolsets? [For instance, if I want to work in a Docker container rather than running MAMP locally, is that cool?]
+* Followup to previous question: Do your developers get to choose their own stacks? If I want to write a thing in React, am I allowed, or do I have to stick to what you're already using?
+* Will I get SSH access to your servers?
+* Will I get root/Administrator access to my machine?
+* What percentage of the time will I be working in/on a CMS? Which one is it?
+* What percentage of the time will I be working in/on HTML emails? How are they built/managed?
 
-## Product management/process related stuff
+## Product management/Development process
 
 * Is your process client-driven, or user-driven?
 * How do you do user research?
@@ -41,18 +42,21 @@ This is a list of questions to help developers get a sense of the the places the
 * What's your company's approach to estimation?
 * How does the team’s leadership [or the product’s leadership] deal with unreasonable feature requests?
 * How much time do you expect I'll be working on legacy products/projects, versus shipping new ones?
-* Let's say I'm in this position for a year. What would it look like for me to be a total success?
-* Followup to previous question: What will our development/engineering team/product look like then, given that success?
-* Do your engineers/developers get to choose their own toolsets? [For instance, if I want to work in a Docker container rather than running MAMP locally, is that cool?]
-* Followup to previous question: Do your developers get to choose their own stacks? If I want to write a thing in React, am I allowed, or do I have to stick to what you're already using?
 * Do you care about pixel perfection? How many UI reviews does the code undergo?
 * Do you have a code standard? If so, how do you balance adherence to a standard with knowing when to revise it, or ignore it altogether?
-* How are performance reviews/salary reviews handled?
-* What in my background (or on my resume) do you see as the most beneficial for the team?
-* Which departments do you interface with the most?
 * Are projects usually by team, or solo? How is team assignment determined?
-* What percentage of the time will I be working in/on a CMS? Which one is it?
-* What percentage of the time will I be working in/on HTML emails? How are they built/managed?
+
+## Career, working with management, etc
+
+* Let's say I'm in this position for a year. What would it look like for me to be a total success?
+* Followup to previous question: What will our development/engineering team/product look like then, given that success?
+* How are performance reviews/salary reviews handled?
+* What challenges does the department/company face in the next month/six months/year?
+* Which departments do you interface with the most?
+* What in my background (or on my resume) do you see as the most beneficial for the team?
+* Is this a new position I'm filling, or am I replacing someone?
+    * New position: What caused the need for it?  How many new positions are being added?
+    * Refilling: What happened to the previous person in this position? How long were they in this position?
 
 ## Growth
 
@@ -60,7 +64,6 @@ This is a list of questions to help developers get a sense of the the places the
 * Are there weekly or monthly one-on-ones with technical mentors?
 * How do you ensure that people on your tech team continue learning?
 * Do you have a 20% time policy?
-* What challenges does the department/company face in the next month/six months/year?
 
 ## Team dynamics
 
